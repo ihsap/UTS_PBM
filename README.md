@@ -15,10 +15,10 @@ Aplikasi Flutter untuk membantu mahasiswa mengelola jadwal kuliah dan mencatat k
 ## 🖼 Screenshot Aplikasi
 
 ### 📍 Halaman Home
-![Halaman Home](https://github.com/ihsap/UTS_PBM/tree/main/jadwalkuliahkegiatan/screenshots)
+![alt text](https://github.com/ihsap/UTS_PBM/blob/main/jadwalkuliahkegiatan/screenshots/home.png?raw=true)
 
 ### 📍 Halaman Jadwal Kuliah
-![Halaman Jadwal](https://github.com/ihsap/UTS_PBM/tree/main/jadwalkuliahkegiatan/screenshots)
+![alt text](https://github.com/ihsap/UTS_PBM/blob/main/jadwalkuliahkegiatan/screenshots/jadwal.png?raw=true)
 
 ### 📍 Halaman Akun Profil
-![Halaman Akun](https://github.com/ihsap/UTS_PBM/tree/main/jadwalkuliahkegiatan/screenshots)
+![alt text](https://github.com/ihsap/UTS_PBM/blob/main/jadwalkuliahkegiatan/screenshots/akun.png?raw=true)
