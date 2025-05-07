@@ -1,0 +1,17 @@
+name: jadwal_kuliah_app
+description: Aplikasi jadwal kuliah dan kegiatan mahasiswa adaptif
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_adaptive_scaffold: ^0.1.12
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
